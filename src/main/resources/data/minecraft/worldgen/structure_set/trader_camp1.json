@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "minecraft:trader_camp1",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1203000,
+    "spacing": 400,
+    "separation": 200,
+    "type": "minecraft:random_spread"
+  }
+}
