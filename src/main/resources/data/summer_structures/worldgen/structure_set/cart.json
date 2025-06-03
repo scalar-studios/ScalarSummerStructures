@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "summer_structures:cart",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 426000,
+    "spacing": 400,
+    "separation": 200,
+    "type": "minecraft:random_spread"
+  }
+}

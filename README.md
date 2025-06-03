@@ -6,7 +6,8 @@ A Minecraft Mod that Adds Structures for [NeoForge's 2025 Serverside Summer Modj
 
 ## Features
 - World generation for new structures:
-  - WIP
+  - Cart
+  - Trader Camp 1
 - Compatible with NeoForge for Minecraft 1.21.1
 
 ## License
