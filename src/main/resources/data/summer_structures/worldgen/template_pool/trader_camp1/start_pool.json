@@ -1,11 +1,11 @@
 {
-  "name": "minecraft:maze/start_pool",
+  "name": "summer_structures:trader_camp1/start_pool",
   "fallback": "minecraft:empty",
   "elements": [
     {
       "weight": 1,
       "element": {
-        "location": "minecraft:trader_camp1",
+        "location": "summer_structures:trader_camp1",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"

@@ -1,7 +1,7 @@
 {
   "structures": [
     {
-      "structure": "minecraft:trader_camp1",
+      "structure": "summer_structures:trader_camp1",
       "weight": 1
     }
   ],
