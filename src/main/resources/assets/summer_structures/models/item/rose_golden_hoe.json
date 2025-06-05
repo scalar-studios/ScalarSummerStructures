@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "summer_structures:item/rose_golden_hoe"
+  }
+}

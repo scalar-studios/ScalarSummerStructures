@@ -1,14 +1,14 @@
 {
   "type": "minecraft:blasting",
   "ingredient": {
-    "item": "minecraft:copper_ingot",
+    "item": "minecraft:gold_ingot",
     "components": {
       "minecraft:custom_model_data": 6190000,
       "minecraft:custom_name": "\"Rose Gold Alloy Compound\""
     }
   },
   "result": {
-    "id": "minecraft:gold_ingot",
+    "id": "minecraft:copper_ingot",
     "components": {
       "minecraft:custom_model_data": 6190000,
       "minecraft:custom_name": "\"Rose Gold Ingot\""
