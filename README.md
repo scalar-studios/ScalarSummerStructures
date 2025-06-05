@@ -10,6 +10,10 @@ A Minecraft Mod that Adds Structures for [NeoForge's 2025 Serverside Summer Modj
   - Trader Camp 1
 - Compatible with NeoForge for Minecraft 1.21.1
 
+## Known Bugs
+- Copper Ingot can be smelted into Rose Gold Ingot, not just the Rose Gold Alloy Compound.
+  - I genuinely don't know how to fix this, so if you do, please open an issue or PR.
+
 ## WIP
 - More structures
 - Rose Gold Items Through Data Pack
