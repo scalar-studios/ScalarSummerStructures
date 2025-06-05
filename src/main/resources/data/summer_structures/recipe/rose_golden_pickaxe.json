@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "minecraft:copper_ingot",
+      "components": {
+        "minecraft:custom_model_data": 6190000,
+        "minecraft:custom_name": "\"Rose Gold Ingot\""
+      }
+    }
+  },
+  "pattern": [
+    "XXX",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_sword",
+    "components": {
+      "minecraft:custom_model_data": 6190000,
+      "minecraft:custom_name": "\"Rose Golden Pickaxe\"",
+      "minecraft:max_damage": 96
+    }
+  }
+}

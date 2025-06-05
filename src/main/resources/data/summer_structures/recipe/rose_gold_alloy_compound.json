@@ -9,7 +9,7 @@
     }
   ],
   "result": {
-    "id": "minecraft:copper_ingot",
+    "id": "minecraft:gold_ingot",
     "components": {
       "minecraft:custom_model_data": 6190000,
       "minecraft:custom_name": "\"Rose Gold Alloy Compound\""
