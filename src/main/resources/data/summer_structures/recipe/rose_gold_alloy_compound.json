@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:copper_ingot"
+    }
+  ],
+  "result": {
+    "id": "minecraft:copper_ingot",
+    "components": {
+      "minecraft:custom_model_data": 6190000,
+      "minecraft:custom_name": "\"Rose Gold Alloy Compound\""
+    }
+  }
+}

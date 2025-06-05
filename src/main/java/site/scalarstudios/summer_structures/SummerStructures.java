@@ -1,4 +1,4 @@
-package dev.lemonjuice.summer_structures;
+package site.scalarstudios.summer_structures;
 
 import net.neoforged.api.distmarker.Dist;
 import net.neoforged.bus.api.IEventBus;
