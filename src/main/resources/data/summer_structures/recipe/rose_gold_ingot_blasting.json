@@ -12,6 +12,7 @@
     "components": {
       "minecraft:custom_model_data": 6190000,
       "minecraft:custom_name": "\"Rose Gold Ingot\""
-    }
+    },
+    "count": 2
   }
 }
