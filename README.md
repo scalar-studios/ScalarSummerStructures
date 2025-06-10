@@ -26,6 +26,11 @@ A Minecraft Mod that Adds Structures for [NeoForge's 2025 Serverside Summer Modj
   - Rose Golden Sword: `/give Dev minecraft:golden_sword[max_damage=96,minecraft:custom_model_data=6190000,item_name='{"italic":false,"text":"Rose Golden Sword"}']`
 
 ## To Do
+- Structures:
+  - Forge
+  - Market
+  - Piglin Overworld Camp
+  - Villager Nether Camp
 - Wiki
 
 ## License
