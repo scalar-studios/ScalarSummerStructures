@@ -1,3 +1,3 @@
-# cart.md Note
+# piglin_camp.md Note
 
-`cart` uses `#is_forest` tag
+`piglin_camp` uses `#is_forest` tag
