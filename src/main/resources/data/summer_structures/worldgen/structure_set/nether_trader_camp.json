@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "summer_structures:nether_trader_camp",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1895000,
+    "spacing": 400,
+    "separation": 200,
+    "type": "minecraft:random_spread"
+  }
+}
