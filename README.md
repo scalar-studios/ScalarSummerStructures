@@ -27,8 +27,11 @@ A Minecraft Mod that Adds Structures for [NeoForge's 2025 Serverside Summer Modj
 - Rose Golden Shovel: `/give Dev minecraft:golden_shovel[max_damage=96,minecraft:custom_model_data=6190000,item_name='{"italic":false,"text":"Rose Golden Shovel"}']`
 - Rose Golden Sword: `/give Dev minecraft:golden_sword[max_damage=96,minecraft:custom_model_data=6190000,item_name='{"italic":false,"text":"Rose Golden Sword"}']`
 
+### Partially Implemented Rose Gold Items
+- Rose Gold Block: `/give Dev minecraft:gold_block[minecraft:custom_model_data=6190000,item_name='{"italic":false,"text":"Rose Gold Block"}']`
+  - As far as I am aware, block textures are not supported in data packs, so this cannot be implemented.
+
 ## To Do
-- Rose Gold Block
 - Wiki
 
 ## License

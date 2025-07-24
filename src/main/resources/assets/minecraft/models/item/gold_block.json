@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/gold_block",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 6190000
+      },
+      "model": "summer_structures:item/rose_gold_block"
+    }
+  ]
+}
