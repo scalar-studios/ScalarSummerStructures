@@ -31,8 +31,8 @@ A Minecraft Mod that Adds Structures for [NeoForge's 2025 Serverside Summer Modj
 - Rose Gold Block: `/give Dev minecraft:gold_block[minecraft:custom_model_data=6190000,item_name='{"italic":false,"text":"Rose Gold Block"}']`
   - As far as I am aware, block textures are not supported in data packs, so this cannot be implemented.
 
-## To Do
-- Wiki
+## Wiki
+A wiki is available at [Scalar Summer Structures Wiki](https://scalarstudios.site/wikis/scalar_summer_structures.html)
 
 ## License
 Distributed under the GPLv3 License. See `LICENSE` for more information.
